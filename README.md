@@ -106,5 +106,3 @@ Projekt Link: [https://github.com/namezor90/project01](https://github.com/namezo
 ## 🙏 Köszönetnyilvánítás
 
 - [Bootstrap](https://getbootstrap.com)
-- [Font Awesome](https://fontawesome.com)
-- [Unsplash](https://unsplash.com) (ha használsz képeket onnan)
