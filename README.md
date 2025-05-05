@@ -1,6 +1,6 @@
 # 🐶 TinDog
 
-![TinDog Screenshot](https://via.placeholder.com/800x400?text=TinDog+Screenshot)
+![TinDog képernyőkép](./image.png)
 
 ## 🐾 A kutyabarát társkereső alkalmazás weboldala
 
