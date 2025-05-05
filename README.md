@@ -53,7 +53,7 @@ Alternatívaként, egyszerűen letöltheted a ZIP fájlt és kicsomagolhatod a s
 
 ## 🌐 Élő Demó
 
-[Kattints ide az élő demó megtekintéséhez](https://www.troy.hu/oldalaim/tindog/)
+[Kattints ide az élő demó megtekintéséhez](https://www.troy.hu/projects/projects02/)
 
 ## 📸 Képernyőképek
 
