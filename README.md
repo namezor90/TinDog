@@ -99,9 +99,9 @@ Distributed under the MIT License. Lásd a `LICENSE` fájlt további informáci�
 
 ## 📧 Kapcsolat
 
-Neved - [@twitter_handle](https://twitter.com/twitter_handle) - email@example.com
+NaMeZoR - [@twitter_handle](https://twitter.com/twitter_handle) - email@example.com
 
-Projekt Link: [https://github.com/namezor90/project01](https://github.com/namezor90/project01)
+Projekt Link: [https://github.com/namezor90/project01](https://github.com/namezor90/TinDog)
 
 ## 🙏 Köszönetnyilvánítás
 
